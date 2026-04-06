@@ -4,7 +4,7 @@ I worked with raw datasets, cleaned them, created useful features like team perf
 ---
 ## Dashboard Preview
 
-![Dashboard](dashboard-preview.png)
+![Dashboard](dashboard-preview.png).
 ## Tools Used
 - Python (Pandas, NumPy, Scikit-learn)
 - Power BI
