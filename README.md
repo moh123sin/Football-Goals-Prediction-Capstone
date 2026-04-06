@@ -2,6 +2,9 @@
 This project is about predicting the number of goals in Premier League matches using historical match data and machine learning.
 I worked with raw datasets, cleaned them, created useful features like team performance and match statistics, and then trained models to estimate expected goals for each match.
 ---
+## Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
 ## Tools Used
 - Python (Pandas, NumPy, Scikit-learn)
 - Power BI
